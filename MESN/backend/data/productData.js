@@ -1,33 +1,33 @@
 const products = [
   {
-    "name": "White t-shirt",
+    "name": "Administrator Training",
     "imageUrl":
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
     "description":
-      "A nice white t-shirt",
+      "A basic training course for Administration",
     "voucherPrice": 1,
-    "countInStock": 15,
-    "category":["t-shirt"],
+    "countInStock": 13,
+    "category":["Administration"],
   },
   {
-    "name": "Red t-shirt",
+    "name": "Car Basics",
     "imageUrl":
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
     "description":
-      "A nice red t-shirt",
+      "A basic course that provides the necessary training for managing a personal vehicle",
     "voucherPrice": 1,
     "countInStock": 15,
-    "category":["t-shirt"],
+    "category":["Mechanics"],
   },
   {
-    "name": "Blue t-shirt",
+    "name": "Public speaking skills",
     "imageUrl":
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
     "description":
-      "A nice blue t-shirt",
+      "Simple course that helps people find their voice",
     "voucherPrice": 1,
     "countInStock": 15,
-    "category":["t-shirt"],
+    "category":["Communication"],
   },
 ];
 
